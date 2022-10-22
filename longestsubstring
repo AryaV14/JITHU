@@ -16,7 +16,7 @@ void main()
         for(j=i+1;j<l;j++)
         {   
             flag=0;
-            if(str[j]=str[i])
+            if(str[j]==str[i])
                 break;
             if(str[j]!=str[i])
             {
