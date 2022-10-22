@@ -31,7 +31,7 @@ void main()
             }
             if(flag=1)
                 break;
-            if(flag=0)
+            if(flag==0)
             {   
                 test[e++]=str[j]; 
             }
